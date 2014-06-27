@@ -1,0 +1,21 @@
+{
+  "name": "side-comments-redis",
+  "description": "A library compatible SideComments.js to store comments data using Redis and Thug",
+  "version": "0.0.1",
+  "private": false,
+  "main": "./lib/comments.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "./node_modules/.bin/mocha tests/* -R spec"
+  },
+  "devDependencies": { 
+    "mocha": "1.20.1",
+    "should": "4.0.4"
+  },
+  "dependencies": {
+    "debug": "~0.7.4",
+    "thug": "0.4.2",
+    "redis": "0.10.3",
+    "uuid": "1.4.1"
+  }
+}

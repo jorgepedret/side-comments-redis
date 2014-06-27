@@ -1,0 +1,312 @@
+[
+  {
+    "user": {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "douglas",
+        "last": "tucker"
+      },
+      "location": {
+        "street": "5715 harrison ct",
+        "city": "green bar",
+        "state": "new jersey",
+        "zip": "37127"
+      },
+      "email": "douglas.tucker16@example.com",
+      "username": "organicrabbit945",
+      "password": "winona",
+      "salt": "vtN0YBBf",
+      "md5": "66b297c6b89a7c4908929c9c2b1be2c9",
+      "sha1": "341e4c3ff551abb716b8eaa184155a08faa148e4",
+      "sha256": "f31a95d58e4115e43ffc5e3cca1cca558f9b09d39a8490a9ae89751be0bde5a2",
+      "registered": "1399529525",
+      "dob": "364433348",
+      "phone": "(989)-464-9106",
+      "cell": "(697)-110-9056",
+      "SSN": "781-62-4542",
+      "picture": "http://api.randomuser.me/portraits/men/94.jpg"
+    },
+    "seed": "0d9ed2a868d4c2d",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "beverly",
+        "last": "frazier"
+      },
+      "location": {
+        "street": "2404 fulton ave",
+        "city": "nashville",
+        "state": "massachusetts",
+        "zip": "39352"
+      },
+      "email": "beverly.frazier34@example.com",
+      "username": "yellowelephant98",
+      "password": "fucing",
+      "salt": "WXmuiQ6S",
+      "md5": "0c465c2aa73c27db0af4f50f595f3169",
+      "sha1": "790f3b6468ac3cea50fc97e7ecfb119125ea5bc3",
+      "sha256": "1b3420f96238c722c85a009010f1257636a79d63a880f925b6e366bff1eb36b1",
+      "registered": "1128274433",
+      "dob": "404373875",
+      "phone": "(145)-231-7131",
+      "cell": "(882)-861-1917",
+      "SSN": "892-61-1246",
+      "picture": "http://api.randomuser.me/portraits/women/36.jpg"
+    },
+    "seed": "10ce659720babb8",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "pauline",
+        "last": "george"
+      },
+      "location": {
+        "street": "2936 cedar hills blvd",
+        "city": "providence",
+        "state": "nebraska",
+        "zip": "21564"
+      },
+      "email": "pauline.george78@example.com",
+      "username": "blueswan34",
+      "password": "zxcvbnm",
+      "salt": "mLePZXv1",
+      "md5": "0dad90ddd4a460c1c7f8604cb7942de8",
+      "sha1": "49dfe374d536f8e339f6e80d1d012a38ad1e904d",
+      "sha256": "14550f84854a793861d1828993313aa912deda90cd69e6c426b6e9504c593191",
+      "registered": "1274430146",
+      "dob": "435335191",
+      "phone": "(877)-118-5994",
+      "cell": "(248)-650-8566",
+      "SSN": "321-26-1497",
+      "picture": "http://api.randomuser.me/portraits/women/29.jpg"
+    },
+    "seed": "5c628e167ef1d8b",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "gail",
+        "last": "hanson"
+      },
+      "location": {
+        "street": "3552 ash dr",
+        "city": "forney",
+        "state": "south carolina",
+        "zip": "11327"
+      },
+      "email": "gail.hanson92@example.com",
+      "username": "tinylion643",
+      "password": "bluesman",
+      "salt": "uKxJnIVt",
+      "md5": "6aa835a6725c44b661ef702109bafbe1",
+      "sha1": "bf7f3d385c3a9ee9bc1647d9a65303434210fdc0",
+      "sha256": "0d3c5c1733befc8b1427e541e500d04f48551fcff2b808e137d7da14e11de835",
+      "registered": "1079963851",
+      "dob": "241324301",
+      "phone": "(406)-432-2355",
+      "cell": "(815)-992-6584",
+      "SSN": "461-23-4008",
+      "picture": "http://api.randomuser.me/portraits/women/47.jpg"
+    },
+    "seed": "41e1c8ee7747605",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "terry",
+        "last": "harrison"
+      },
+      "location": {
+        "street": "5771 perfect day ave",
+        "city": "saginaw",
+        "state": "massachusetts",
+        "zip": "12056"
+      },
+      "email": "terry.harrison44@example.com",
+      "username": "whitetiger410",
+      "password": "here",
+      "salt": "ahqEOg30",
+      "md5": "cc4b28802839414a1e5127ccc72de1e2",
+      "sha1": "0aa025406e009a6d5d454bb596cde726c37a95d7",
+      "sha256": "51af36d62a16ecb6f12f379041fa905718461f2445efb04414fca4b492a487af",
+      "registered": "940703269",
+      "dob": "313480239",
+      "phone": "(580)-502-3670",
+      "cell": "(949)-387-3796",
+      "SSN": "403-32-5538",
+      "picture": "http://api.randomuser.me/portraits/men/78.jpg"
+    },
+    "seed": "a5268ccec515255",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "samuel",
+        "last": "lee"
+      },
+      "location": {
+        "street": "5848 elm dr",
+        "city": "grants pass",
+        "state": "delaware",
+        "zip": "22397"
+      },
+      "email": "samuel.lee72@example.com",
+      "username": "crazylion767",
+      "password": "stonecol",
+      "salt": "nHilF3BO",
+      "md5": "173dc65a16c725cb199822c76268d504",
+      "sha1": "6389abe1d2a733116ff830e55fd4c0cfab99e9cf",
+      "sha256": "0e82813914832d2ec5249c4afff65bb420a0e00e473d475e72479f30f897fb86",
+      "registered": "945847611",
+      "dob": "374667649",
+      "phone": "(291)-818-5127",
+      "cell": "(580)-313-6686",
+      "SSN": "835-59-6929",
+      "picture": "http://api.randomuser.me/portraits/men/45.jpg"
+    },
+    "seed": "44ede7e1d495f4f",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "kaylee",
+        "last": "fields"
+      },
+      "location": {
+        "street": "5008 parker rd",
+        "city": "rapid city",
+        "state": "pennsylvania",
+        "zip": "70311"
+      },
+      "email": "kaylee.fields63@example.com",
+      "username": "heavybird56",
+      "password": "punch",
+      "salt": "UBUCVPcP",
+      "md5": "b8bc0f12c252c5ee591de15e7afb6c52",
+      "sha1": "53534a5f48fccf169d31369349c6a1ca1433f75b",
+      "sha256": "38e34039c2293fd1761f48d58aff447dcaa7d0156ba4c81be12275a42a222152",
+      "registered": "1294499900",
+      "dob": "20751384",
+      "phone": "(104)-958-6727",
+      "cell": "(554)-591-2765",
+      "SSN": "725-55-6406",
+      "picture": "http://api.randomuser.me/portraits/women/73.jpg"
+    },
+    "seed": "585ad04a7b66288",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "lucas",
+        "last": "diaz"
+      },
+      "location": {
+        "street": "4908 woodlane dr",
+        "city": "las vegas",
+        "state": "michigan",
+        "zip": "56982"
+      },
+      "email": "lucas.diaz20@example.com",
+      "username": "ticklishleopard234",
+      "password": "unknown",
+      "salt": "wRrNm7rp",
+      "md5": "f46cc51a65064932693f4196b8e5c090",
+      "sha1": "55edb509daf1e7a4b0b8af7df80c24eabbfbdf47",
+      "sha256": "21048193eb26777311451f4c13738e6513e459b9c05d14512381cddba2a2cba1",
+      "registered": "1184562221",
+      "dob": "390231956",
+      "phone": "(621)-755-4908",
+      "cell": "(601)-463-8198",
+      "SSN": "424-62-5959",
+      "picture": "http://api.randomuser.me/portraits/men/83.jpg"
+    },
+    "seed": "6d4a58bdf6f4485",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "terry",
+        "last": "carter"
+      },
+      "location": {
+        "street": "5290 hillcrest rd",
+        "city": "richardson",
+        "state": "nebraska",
+        "zip": "69932"
+      },
+      "email": "terry.carter42@example.com",
+      "username": "blueduck163",
+      "password": "flower1",
+      "salt": "zmvULcyq",
+      "md5": "8ab539991c6b69617212719a2d289d17",
+      "sha1": "4230122e47d0a66be83ab1b6978791ba98f32a3c",
+      "sha256": "0867a9d9563c63b1b4a6112efeb20ea5023c94de952bcd259f340e38e8ab2992",
+      "registered": "1033145944",
+      "dob": "216509493",
+      "phone": "(908)-940-2230",
+      "cell": "(881)-493-6235",
+      "SSN": "957-80-4414",
+      "picture": "http://api.randomuser.me/portraits/men/22.jpg"
+    },
+    "seed": "d79596172484e2f",
+    "version": "0.4"
+  },
+  {
+    "user": {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "carmen",
+        "last": "barnett"
+      },
+      "location": {
+        "street": "7167 photinia ave",
+        "city": "chesapeake",
+        "state": "utah",
+        "zip": "36223"
+      },
+      "email": "carmen.barnett86@example.com",
+      "username": "goldenelephant347",
+      "password": "00000",
+      "salt": "ALLLsvzU",
+      "md5": "e21cdac00b709b02cb3fa4f7cb6580e6",
+      "sha1": "879893ed8a9676caafa584f26beb6b9a57391039",
+      "sha256": "58701349c8b63ac63258a2f993cf533f930a4ab11cc7c5a72ea61656ccbaa5da",
+      "registered": "1267643134",
+      "dob": "161347996",
+      "phone": "(433)-301-3364",
+      "cell": "(163)-716-2556",
+      "SSN": "696-29-5751",
+      "picture": "http://api.randomuser.me/portraits/women/85.jpg"
+    },
+    "seed": "df12c794673c43d",
+    "version": "0.4"
+  }
+]
