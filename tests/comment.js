@@ -1,6 +1,5 @@
 var should  = require("should");
-var Comments = require("../lib/comments");
-
+var Comments = require("..");
 var comment_id = null;
 
 describe('Comments', function () {
