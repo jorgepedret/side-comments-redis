@@ -4,6 +4,8 @@ A simple Node.js library to help you store in Redis comments with a format compa
 
 It doesn't make decisions about the users, so that part is up to the person implementing it.
 
+This library uses [Thug](https://github.com/sintaxi/thug) to manage the comment model, validations and persistance on Redis.
+
 ## Getting started
 
 Run this comment to __install__ the library in your project:
@@ -29,8 +31,6 @@ Start a redis server (local, for now) and here’s how you can use it in your pr
 ### Create a new instance
 
     var Comments = require('side-comments-redis');
-
-This library uses [Thug](https://github.com/sintaxi/thug) to 
 
 ### Adding a Comment
 
